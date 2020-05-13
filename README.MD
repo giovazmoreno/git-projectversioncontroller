@@ -85,5 +85,39 @@ function $initHighlight(block, cls) {
 export  $initHighlight;
  ```
 
+# 8.- Tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Giovanna | Vazquez | 12345 |
+| Eloisa | Moreno | 56789 |
+| Allison | Rubi | 34567 |
+| Zoe | Cabrera | 78901 |
+
+# 9.- Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+Esto aun esta en la cita
+
+Esto ya no esta dentro de la cita porque hay un Enter despues de la cita para finalizarla.
+
+# 10.- Lineas horizontales
+Esto es un texto dividido
+
+---
+Es importante que exista un enter entre texto y los 3 - (guiones medios) 
+
+***
+Divisor con tres asteriscos
+
+___
+Divisor con 3 _
 
 
+# 11.- Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+
+Es necesario darle  el salto de linea con un enter.
