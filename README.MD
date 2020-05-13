@@ -6,4 +6,15 @@
 ###### Cabecera H6
 
 
-SOY UN README
+Underline 1 -
+-
+Underline 2 =
+=
+
+- formato *italica* de la primera forma *
+- formato _italica_ de la segunda forma _
+- formato **bold o strong** *
+- formato __bold o strong__ __
+- formato ~~tachado~~ ~~
+
+- aqui podemos usar ~~***multiples***~~  formatos
